@@ -8,7 +8,7 @@ on the internet for pc
 
 `nfc.exe --input input_file.gif --output output_file.gif --caption "caption text\nnextline"`
 
-or just type `nfc.exe --help` ¯\\_(ツ)_/¯
+or just type `nfc.exe --help` ¯\\\_(ツ)_/¯
 
 ## Remarks
 
